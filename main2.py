@@ -1,6 +1,2 @@
-from main import *
-
-print_age(age=50)
-
-
-
+for odd_num in range(1, 10, 2):
+    print(odd_num)
